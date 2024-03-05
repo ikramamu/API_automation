@@ -4,4 +4,5 @@ Feature: Test Profile API
     Given with valid credentials
     When get the profile of a user
     Then user should get profile details
-    
+
+
